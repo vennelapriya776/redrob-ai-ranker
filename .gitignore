@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+
+# VS Code
+.vscode/
+
+# Output files
+output/
+*.csv
+
+# Large datasets
+data/
+*.jsonl
+*.jsonl.gz
+*.gz
+
+# OS files
+.DS_Store
+Thumbs.db
